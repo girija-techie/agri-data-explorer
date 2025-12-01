@@ -133,12 +133,38 @@ RETURN DIVIDE(CurrentProd - Prod5YearsAgo, Prod5YearsAgo)
 
 ---
 
-## 🔍 Key Insights
-- Rice & Wheat dominate agricultural output.
-- Cotton & Soybean show major growth post-2000.
-- Several states show high area but low yield.
-- Green Revolution years show sharp increases in production.
-- Scatter analysis identifies high production but low growth states.
+# ⭐ Key Insights
+
+## **1️⃣ Long-Term Agricultural Growth**
+Steady rise from 1966–2017. Wheat & Rice surged post-Green Revolution.
+
+## **2️⃣ Wheat & Rice Dominate Production**
+Wheat more stable; Rice varies due to climate & water availability.
+
+## **3️⃣ Soybean & Cotton Boom After 2000**
+Boosted by hybrids and BT Cotton.
+
+## **4️⃣ Inefficient High-Area States**
+Bihar, Odisha, MP show high area but low yield.
+
+## **5️⃣ High-Yield States**
+Punjab, Haryana, Tamil Nadu, Telangana, AP.
+
+## **6️⃣ Sugarcane Extremely High Output**
+UP & Maharashtra lead; stable year-long crop.
+
+## **7️⃣ Maize Yield Growing Strongly**
+Driven by seed improvements & farm practices.
+
+## **8️⃣ Crop Diversification Rising**
+Shift toward Soybean, Cotton, Maize.
+
+## **9️⃣ District-Level Gaps**
+Some districts highly efficient; others inefficient.
+
+## **🔟 Emerging Growth States**
+South & Central states show strong recent growth.
+
 
 ---
 
@@ -157,7 +183,7 @@ It demonstrates the power of Business Intelligence (BI) tools for real-world ana
 
 ---
 
-## 👤 Author
+## 👩‍💻 Author
 **Girija**  
 Power BI Mini Project | 2025  
 
